@@ -20,7 +20,7 @@ User autorisé à le voir : permission visiteur
 
 
 
-## Page d'ACCUEIL (index.html)
+### Page d'ACCUEIL (index.html)
 
 
 
@@ -38,7 +38,7 @@ Lien INSCRIPTION
 
 
 
-## Page INSCRIPTION
+### Page INSCRIPTION
 
 
 
@@ -50,7 +50,7 @@ Formulaire (Nom – email – password – photo)
 
 
 
-## Page de PROFIL
+### Page de PROFIL
 
 
 
@@ -68,7 +68,7 @@ Gestion permission visiteur : lien PARTAGE
 
 ##### 
 
-## Page CREATION CARNET
+### Page CREATION CARNET
 
 
 
@@ -80,7 +80,7 @@ Formulaire (Titre - Ajout photos)
 
 
 
-## Page CARNET
+### Page CARNET
 
 
 
@@ -98,7 +98,7 @@ Vue des posts
 
 
 
-## Page POST
+### Page POST
 
 
 
@@ -110,7 +110,7 @@ Formulaire Ajout de post (Titre – texte – photos – localisation)
 
 
 
-## Page PARTAGE
+### Page PARTAGE
 
 
 
