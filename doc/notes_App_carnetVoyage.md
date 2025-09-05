@@ -18,7 +18,7 @@ User autorisé à le voir : permission visiteur
 
 
 
-### Page d'ACCUEIL (index.html)
+## Page d'ACCUEIL (index.html)
 
 
 
@@ -26,7 +26,7 @@ Titre : Carnet de Voyage
 
 AUTHENTIFICATION
 
- 	\*Après authentification  page PROFIL
+ 	\*Après authentification -> page PROFIL
 
 Lien INSCRIPTION
 
@@ -34,43 +34,43 @@ Lien INSCRIPTION
 
 
 
-### Page INSCRIPTION
+## Page INSCRIPTION
 
 
 
 Formulaire (Nom – email – password – photo)
 
-\*Après inscription  page PROFIL
+\*Après inscription -> page PROFIL
 
 
 
-### Page de PROFIL
+## Page de PROFIL
 
 
 
 Créer un nouveau carnet de voyage : lien CREATION
 
-Mes carnets de voyage : Vue des différents carnets (clic  page CARNET)
+Mes carnets de voyage : Vue des différents carnets (clic -> page CARNET)
 
-Vue des nouveaux commentaires et likes : Partage (clic  page CARNET/POST)
+Vue des nouveaux commentaires et likes : Partage (clic -> page CARNET/POST)
 
-Vue des carnets suivis : Invitations (clic  page CARNET)
+Vue des carnets suivis : Invitations (clic -> page CARNET)
 
 Gestion permission visiteur : lien PARTAGE
 
 ##### 
 
-### Page CREATION CARNET
+## Page CREATION CARNET
 
 
 
 Formulaire (Titre - Ajout photos)
 
- 	\* Page CARNET
+ 	\*-> Page CARNET
 
 
 
-### Page CARNET
+## Page CARNET
 
 
 
@@ -86,17 +86,17 @@ Vue des posts
 
 
 
-### Page POST
+## Page POST
 
 
 
 Formulaire Ajout de post (Titre – texte – photos – localisation)
 
- 	\* Page CARNET
+ 	\*-> Page CARNET
 
 
 
-### Page PARTAGE
+## Page PARTAGE
 
 
 
