@@ -20,9 +20,9 @@ User autorisé à le voir : permission visiteur
 
 
 
-### Page d'ACCUEIL (index.html)
+### **Page d'ACCUEIL (index.html)**
 
-
+------------------------------------------------------
 
 &nbsp;	Titre : Carnet de Voyage
 
@@ -38,9 +38,9 @@ User autorisé à le voir : permission visiteur
 
 
 
-### Page INSCRIPTION
+### **Page INSCRIPTION**
 
-
+---------------------------------
 
 &nbsp;	Formulaire (Nom – email – password – photo)
 
@@ -50,9 +50,9 @@ User autorisé à le voir : permission visiteur
 
 
 
-### Page de PROFIL
+### **Page de PROFIL**
 
-
+-----------------------------
 
 &nbsp;	Créer un nouveau carnet de voyage : lien CREATION
 
@@ -68,9 +68,9 @@ User autorisé à le voir : permission visiteur
 
 ##### 
 
-### Page CREATION CARNET
+### **Page CREATION CARNET**
 
-
+----------------------------------------
 
 &nbsp;	Formulaire (Titre - Ajout photos)
 
@@ -80,9 +80,9 @@ User autorisé à le voir : permission visiteur
 
 
 
-### Page CARNET
+### **Page CARNET**
 
-
+----------------------
 
 &nbsp;	Ajouter nouveau post : lien POST
 
@@ -98,9 +98,9 @@ User autorisé à le voir : permission visiteur
 
 
 
-### Page POST
+### **Page POST**
 
-
+------------------
 
 &nbsp;	Formulaire Ajout de post (Titre – texte – photos – localisation)
 
@@ -110,9 +110,9 @@ User autorisé à le voir : permission visiteur
 
 
 
-### Page PARTAGE
+### **Page PARTAGE**
 
-
+------------------------
 
 &nbsp;	Sélection carnet et sélection utilisateur (ajout/suppression)
 
