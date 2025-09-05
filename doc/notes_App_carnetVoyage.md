@@ -2,7 +2,7 @@
 
 
 
-Un utilisateur s'enregistre sur l'application et créer un carnet de voyage dans lequel il pourra poster des messages, des photos et sa localisation. 
+Un utilisateur s'enregistre sur l'application et créer un carnet de voyage dans lequel il pourra poster des messages, des photos et sa localisation.
 
 Il peut partager son carnet.
 
@@ -10,15 +10,15 @@ Les invités peuvent laisser commentaires et likes sur les posts de son carnet.
 
 (Sur la page d'accueil de son carnet, une carte indique chaque localisation)
 
-Accès au post depuis le fil des posts ( ou depuis un point sur la carte) 
+Accès au post depuis le fil des posts ( ou depuis un point sur la carte)
 
-User créateur d'un carnet : permission admin 
+User créateur d'un carnet : permission admin
 
 User autorisé à le voir : permission visiteur
 
 
 
-##### Page d'ACCUEIL (index.html)
+### Page d'ACCUEIL (index.html)
 
 
 
@@ -26,7 +26,7 @@ Titre : Carnet de Voyage
 
 AUTHENTIFICATION
 
-&nbsp;	\*Après authentification  page PROFIL
+ 	\*Après authentification  page PROFIL
 
 Lien INSCRIPTION
 
@@ -34,7 +34,7 @@ Lien INSCRIPTION
 
 
 
-##### Page INSCRIPTION
+### Page INSCRIPTION
 
 
 
@@ -44,7 +44,7 @@ Formulaire (Nom – email – password – photo)
 
 
 
-##### Page de PROFIL
+### Page de PROFIL
 
 
 
@@ -60,51 +60,47 @@ Gestion permission visiteur : lien PARTAGE
 
 ##### 
 
-##### Page CREATION CARNET
+### Page CREATION CARNET
 
 
 
 Formulaire (Titre - Ajout photos)
 
-&nbsp;	\* Page CARNET
+ 	\* Page CARNET
 
 
 
-##### Page CARNET
+### Page CARNET
 
 
 
 Ajouter nouveau post : lien POST
 
-&nbsp;	\*visible uniquement par l’admin
+ 	\*visible uniquement par l’admin
 
 (Carte pointée)
 
-Vue des posts 
+Vue des posts
 
 •	Ajout de like et commentaire au post
 
 
 
-##### Page POST
+### Page POST
 
 
 
 Formulaire Ajout de post (Titre – texte – photos – localisation)
 
-&nbsp;	\* Page CARNET
+ 	\* Page CARNET
 
 
 
-##### Page PARTAGE
+### Page PARTAGE
 
 
 
 Sélection carnet et sélection utilisateur (ajout/suppression)
 
 Liste utilisateurs pour chaque carnet
-
-
-
-
 
