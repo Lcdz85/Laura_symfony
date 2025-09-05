@@ -24,15 +24,15 @@ User autorisé à le voir : permission visiteur
 
 
 
-Titre : Carnet de Voyage
+&nbsp;	Titre : Carnet de Voyage
 
-AUTHENTIFICATION
+&nbsp;	AUTHENTIFICATION
 
- 	\*Après authentification -> page PROFIL
+ 		\*Après authentification -> page PROFIL
 
-Lien INSCRIPTION
+&nbsp;	Lien INSCRIPTION
 
-(Carte avec toutes les localisations des posts pointés)
+&nbsp;	(Carte avec toutes les localisations des posts pointés)
 
 
 
@@ -42,9 +42,9 @@ Lien INSCRIPTION
 
 
 
-Formulaire (Nom – email – password – photo)
+&nbsp;	Formulaire (Nom – email – password – photo)
 
-\*Après inscription -> page PROFIL
+&nbsp;		\*Après inscription -> page PROFIL
 
 
 
@@ -54,15 +54,15 @@ Formulaire (Nom – email – password – photo)
 
 
 
-Créer un nouveau carnet de voyage : lien CREATION
+&nbsp;	Créer un nouveau carnet de voyage : lien CREATION
 
-Mes carnets de voyage : Vue des différents carnets (clic -> page CARNET)
+&nbsp;	Mes carnets de voyage : Vue des différents carnets (clic -> page CARNET)
 
-Vue des nouveaux commentaires et likes : Partage (clic -> page CARNET/POST)
+&nbsp;	Vue des nouveaux commentaires et likes : Partage (clic -> page CARNET/POST)
 
-Vue des carnets suivis : Invitations (clic -> page CARNET)
+&nbsp;	Vue des carnets suivis : Invitations (clic -> page CARNET)
 
-Gestion permission visiteur : lien PARTAGE
+&nbsp;	Gestion permission visiteur : lien PARTAGE
 
 
 
@@ -72,9 +72,9 @@ Gestion permission visiteur : lien PARTAGE
 
 
 
-Formulaire (Titre - Ajout photos)
+&nbsp;	Formulaire (Titre - Ajout photos)
 
- 	\*-> Page CARNET
+ 		\*-> Page CARNET
 
 
 
@@ -84,15 +84,15 @@ Formulaire (Titre - Ajout photos)
 
 
 
-Ajouter nouveau post : lien POST
+&nbsp;	Ajouter nouveau post : lien POST
 
- 	\*visible uniquement par l’admin
+ 		\*visible uniquement par l’admin
 
-(Carte pointée)
+&nbsp;	(Carte pointée)
 
-Vue des posts
+&nbsp;	Vue des posts
 
-•	Ajout de like et commentaire au post
+&nbsp;	•	Ajout de like et commentaire au post
 
 
 
@@ -102,9 +102,9 @@ Vue des posts
 
 
 
-Formulaire Ajout de post (Titre – texte – photos – localisation)
+&nbsp;	Formulaire Ajout de post (Titre – texte – photos – localisation)
 
- 	\*-> Page CARNET
+ 		\*-> Page CARNET
 
 
 
@@ -114,7 +114,7 @@ Formulaire Ajout de post (Titre – texte – photos – localisation)
 
 
 
-Sélection carnet et sélection utilisateur (ajout/suppression)
+&nbsp;	Sélection carnet et sélection utilisateur (ajout/suppression)
 
-Liste utilisateurs pour chaque carnet
+&nbsp;	Liste utilisateurs pour chaque carnet
 
